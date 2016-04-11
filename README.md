@@ -66,7 +66,7 @@ commandBus.addHandler(commandHandler)
 let command = ICommandYouToSaySomething()
 
 try! commandBus.process(command) { (result: String?, error: ErrorType?) in
-    let message = result
+    let message = result
     print("message: '\(message!)'")
 }
 
