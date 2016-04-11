@@ -1,6 +1,6 @@
 import UIKit
 import XCTest
-import VIPERS-CommandBus
+import VIPERS_CommandBus
 
 class Tests: XCTestCase {
     
