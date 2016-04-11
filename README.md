@@ -91,7 +91,7 @@ class ExampleCommandHandler : CommandHandlerProtocol{
 }
 ```
 
-If you are not used to generics you ignore the checking can implement the command handler like that:
+If you are not used to generics you are allowed to ignore the type checking. Just implement the command handler like that:
 
 ```swift
 // use the following method in your command handler
