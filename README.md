@@ -2,10 +2,7 @@
 
 [![Platform](https://img.shields.io/cocoapods/p/VIPERS-CommandBus.svg?style=flat)](http://cocoapods.org/pods/VIPERS-CommandBus)
 
-
-# VIPERS-CommandBus-Protocol
-
-Protocols of the command bus / message bus implementation used by VIPERS. These protocols are used to implement the interactor layer in the VIPERS ios application framework.
+Command bus / message bus implementation used by VIPERS. The command bus is used to implement the interactor layer in the VIPERS ios application framework.
 
 ## What is a command bus ?
 Have a look at this [blog post](http://php-and-symfony.matthiasnoback.nl/2015/01/a-wave-of-command-buses/) (It's example is written in PHP but I think you will accept this challenge)
